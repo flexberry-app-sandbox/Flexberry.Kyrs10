@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Билетная касса",
+  "name": "IISKyrs10БилетнаяКассаE",
+  "className": "БилетнаяКассаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyrs10-билетная-касса",
+      "modelProjection": "БилетнаяКассаE"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Перевозчик1",
+  "name": "IISKyrs10Перевозчик1E",
+  "className": "Перевозчик1E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyrs10-перевозчик1",
+      "modelProjection": "Перевозчик1E"
+    }
+  ]
+}

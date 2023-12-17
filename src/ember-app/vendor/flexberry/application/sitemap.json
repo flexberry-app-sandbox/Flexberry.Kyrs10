@@ -1,0 +1,43 @@
+﻿{
+  "applicationCaption": "Kyrs10",
+  "applicationTitle": "Kyrs10",
+  "items": [
+    {
+      "link": null,
+      "menuName": "kyrs10",
+      "caption": "Kyrs10",
+      "title": "Kyrs10",
+      "children": [
+        {
+          "link": "i-i-s-kyrs10-покуп-или-возв-б-l",
+          "menuName": null,
+          "caption": "Покупка или возврат билета",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kyrs10-перевозчик1-l",
+          "menuName": null,
+          "caption": "Перевозчик",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kyrs10-билетная-касса-l",
+          "menuName": null,
+          "caption": "Билетная касса",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kyrs10-покупатель-l",
+          "menuName": null,
+          "caption": "Покупатель",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

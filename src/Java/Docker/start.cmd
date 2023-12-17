@@ -1,0 +1,1 @@
+docker-compose -p kyrs10-java up -d
